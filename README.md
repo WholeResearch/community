@@ -4,7 +4,7 @@
   <h6>Whole Research</h6>
   <h1><b>COMMUNITY</b></h1>
   <p>Question everything, truth you shall find.</p>
-  | <a href="https://github.com/WholeResearch/communities/issues/1">README</a> | <a href="https://github.com/WholeResearch/communities/issues/2">Directory</a> | <a href="https://github.com/WholeResearch/communities/issues/3">Topics</a> |
+  | <a href="https://github.com/WholeResearch/community/issues/1">README</a> | <a href="https://github.com/WholeResearch/community/issues/2">Directory</a> | <a href="https://github.com/WholeResearch/community/issues/3">Topics</a> |
 <p/>
 </div>
 
